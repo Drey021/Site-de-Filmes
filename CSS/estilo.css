@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+     color: chocolate;
+}
+
+.cor1{
+    background-color: orange;
+}
+
+.tamanho{
+    font-size: 75px;
+}
+
+.efeito:hover{
+    cursor: pointer;
+    transition-duration: 1s;
+    transform: scale(1.1 , 1.1);
+}
+
+.space1{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.space{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.fundo{
+    background-color: orange;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+
+.a{
+    color: aliceblue;
+}
